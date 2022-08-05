@@ -31,7 +31,7 @@ Hi there 👋
 
 <p align="center">
 🎖 수료예정 <br/>
-️🏃🏻 2021.06 ~ 삼성 청년 SW 아카데미 <br/>
+️🎖\🏻 2021.06 ~ 삼성 청년 SW 아카데미 수료<br/>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer)
